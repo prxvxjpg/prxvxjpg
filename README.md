@@ -90,10 +90,6 @@ I-am-prxvxjpg@github
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prxvxjpg&theme=dark&hide_border=true"/>
-</p>
-
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=prxvxjpg&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
