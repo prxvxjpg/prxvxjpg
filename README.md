@@ -55,7 +55,7 @@ I-am-prxvxjpg@github
 
 ### 💻 Software and Tools
 
-<p>
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
@@ -65,7 +65,7 @@ I-am-prxvxjpg@github
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white"></a>
-</p>
+
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
