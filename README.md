@@ -18,9 +18,6 @@ I-am-prxvxjpg@github
 🚩 Focused on building robust, interpretable models for regulated industries
 ✅ Committed to data integrity and methodical validation processes
 ```
-<hr>
-
----
 <br />
 
 <!--Languages and Tools Section-->       
