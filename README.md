@@ -61,7 +61,7 @@ I-am-prxvxjpg@github
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white"></a>
 </p>
 
 <!--Github stats Table--> 
@@ -153,9 +153,6 @@ I-am-prxvxjpg@github
 
 ------
 
-Credit: [Kiran1689](https://github.com/Kiran1689)
-
-Last Edited on: 29/11/2023
 
 
 
