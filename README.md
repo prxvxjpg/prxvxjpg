@@ -51,10 +51,10 @@ I-am-prxvxjpg@github
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        <a href="https://github.com/prxvxjpg/Proyecto_Pruebas_Saber_Pro">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=prxvxjpg&repo=Proyecto_Pruebas_Saber_Pro&theme=nightowl&show_owner=true" alt="Cryptos Project" />
         </a>
       </p>
     </td>
