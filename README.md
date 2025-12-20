@@ -1,10 +1,5 @@
 ## Hi there, I'm Juan Pablo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCX93oEN0tza6KfuAWfI61vQ)
-[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@uppala0863)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojuppala/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Manoj_0863?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FManoj_0863&screen_name=Manoj_0863)
-
 ### 👨🏻‍💻 About Me
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
@@ -21,7 +16,7 @@
 ### 📌Pinned Repositories
 
 <p align="left">
-<a href="https://github.com/manojuppala/IBM-Applied-Data-science-specialization">
+<a href="[https://github.com/manojuppala/IBM-Applied-Data-science-specialization](https://github.com/prxvxjpg/Proyecto_Pruebas_Saber_Pro)">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=IBM-Applied-Data-science-specialization&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 </a>
 <a href="https://github.com/manojuppala/Hadoop-MapReduce">
