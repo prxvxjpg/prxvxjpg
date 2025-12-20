@@ -59,10 +59,10 @@ I-am-prxvxjpg@github
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/prxvxjpg">
-          <img align="center" src="https://streak-stats.demolab.com?user=prxvxjpg&theme=nightowl" alt="Streak Stats" />
+        <a href="https://github.com/prxvxjpg/Proyecto_Pruebas_Saber_Pro">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=prxvxjpg&repo=Proyecto_Pruebas_Saber_Pro&theme=nightowl&show_owner=true" alt="Cryptos Project" />
         </a>
       </p>
     </td>
@@ -77,10 +77,10 @@ I-am-prxvxjpg@github
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kiran1689&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        <a href="https://github.com/prxvxjpg/Proyecto_Pruebas_Saber_Pro">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=prxvxjpg&repo=Proyecto_Pruebas_Saber_Pro&theme=nightowl&show_owner=true" alt="Cryptos Project" />
         </a>
       </p>
     </td>
