@@ -67,7 +67,7 @@ I-am-prxvxjpg@github
 
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center">📊 Projects 📊</h2>
 
 <table width="100%">
   <tr>
