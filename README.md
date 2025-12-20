@@ -61,8 +61,8 @@ I-am-prxvxjpg@github
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/prxvxjpg/Proyecto_Pruebas_Saber_Pro">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=prxvxjpg&repo=Proyecto_Pruebas_Saber_Pro&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        <a href="https://github.com/prxvxjpg/Analisis_de_datos_sobre_la_correlacion_entre_pobreza_inseguridad_y_crecimiento_poblacional">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=prxvxjpg&repo=Analisis_de_datos_sobre_la_correlacion_entre_pobreza_inseguridad_y_crecimiento_poblacional&theme=nightowl&show_owner=true" alt="Analisis de datos sobre la correlacion entre la pobreza, inseguridad y crecimiento poblacional" />
         </a>
       </p>
     </td>
