@@ -61,8 +61,8 @@ I-am-prxvxjpg@github
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=nightowl" alt="Streak Stats" />
+        <a href="https://github.com/prxvxjpg">
+          <img align="center" src="https://streak-stats.demolab.com?user=prxvxjpg&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
