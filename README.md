@@ -17,7 +17,7 @@
 
 <p align="left">
 <a href="https://github.com/prxvxjpg/Proyecto_Pruebas_Saber_Pro">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=IBM-Applied-Data-science-specialization&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+  <img height="130em" src="https://github.com/prxvxjpg/Proyecto_Pruebas_Saber_Pro&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 </a>
 <a href="https://github.com/manojuppala/Hadoop-MapReduce">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=Hadoop-MapReduce&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
