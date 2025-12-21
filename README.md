@@ -4,7 +4,6 @@ Hi, I'm Juan Pablo!
 <br/>
 
 <img align="right" src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" width="200" />
-<hr>
 
 ```
 💻 Data Scientist & Analyst | Mathematical Background
