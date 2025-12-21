@@ -7,6 +7,7 @@ Hi, I'm Juan Pablo!
 
 ```
 Professional Profile
+-------------------------
 💻 Data Scientist & Analyst | Mathematical Background
 📚 Leveraging statistical rigor for data-driven decision making
 📝 End-to-end data pipeline development: EDA → visualization → ML models
