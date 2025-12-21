@@ -19,7 +19,6 @@
 🚩 Focused on building robust, interpretable models for regulated industries
 🔭 Transforming data into action via Python-driven visualizations, predictive analytics and ML pipelines
 ✅ Committed to data integrity and methodical validation processes
--------------------------
 ```
 <br />
 
