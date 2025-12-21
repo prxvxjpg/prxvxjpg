@@ -6,6 +6,7 @@ Hi, I'm Juan Pablo!
 <img align="right" src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" width="200" />
 
 ```
+Professional Profile
 💻 Data Scientist & Analyst | Mathematical Background
 📚 Leveraging statistical rigor for data-driven decision making
 📝 End-to-end data pipeline development: EDA → visualization → ML models
