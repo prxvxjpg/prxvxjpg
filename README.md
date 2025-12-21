@@ -4,7 +4,7 @@ Hi, I'm Juan Pablo!
 <br/>
 
 <h1 align="center">
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Professional Profile
+Professional Profile
 </h1>
 
 <!--horizontal divider(gradiant)-->
