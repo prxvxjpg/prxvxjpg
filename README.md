@@ -52,8 +52,8 @@
 
 <p>
     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white" width="130"></a>
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="90"></a>
-    <img alt="Posit Cloud" src="https://img.shields.io/badge/Posit%20Cloud-%232A3143.svg?logo=posit&logoColor=white" width="130" />
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="95"></a>
+    <img alt="Posit Cloud" src="https://img.shields.io/badge/Posit%20Cloud-%232A3143.svg?logo=posit&logoColor=white" width="120" />
     
 </p>
 
