@@ -14,7 +14,7 @@
 💻 Data Scientist & Analyst | Mathematical Background
 📚 Leveraging statistical rigor for data-driven decision making
 📝 End-to-end data pipeline development: EDA → visualization → ML models
-🔭 Specializing in actionable insights through Power BI dashboards & predictive analytics
+🔭 Transforming data into action via Python-driven visualizations, ML pipelines & predictive analytics
 🌱 Continuously expanding technical toolkit for enterprise applications
 🌟 Core stack: Python (pandas, scikit-learn), SQL, R, Power BI
 🚩 Focused on building robust, interpretable models for regulated industries
