@@ -7,6 +7,9 @@ Hi, I'm Juan Pablo!
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Professional Profile
 </h1>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <img align="right" src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" width="200" />
 
 ```
