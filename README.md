@@ -80,7 +80,7 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Identificando Perfiles de Éxito Académico en Colombia con Machine Learning</strong></h3>
+      <h3 align="center"><strong>Identificando perfiles de éxito académico en Colombia con Machine Learning</strong></h3>
       <p align="center">
         <a href="https://github.com/prxvxjpg/Proyecto_Pruebas_Saber_Pro">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=prxvxjpg&repo=Proyecto_Pruebas_Saber_Pro&theme=nightowl&show_owner=true" alt="Cryptos Project" />
