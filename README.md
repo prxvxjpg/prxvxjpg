@@ -58,9 +58,7 @@
 
 ### 💻 Software and Tools
 
-<img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white" width="90" />
-<img alt="DaVinci Resolve" src="https://img.shields.io/badge/DaVinci_Resolve-000000?logo=davinciresolve&logoColor=white" width="120" />
-<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white" width="75" />
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
@@ -68,6 +66,9 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Inkscape](https://img.shields.io/badge/inkscape-000000.svg?style=for-the-badge&logo=inkscape&logoColor=white)&nbsp;
+![DaVinci Resolve](https://img.shields.io/badge/davinci%20resolve-000000.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)&nbsp;
+![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white"></a>
 
 <!--Github stats Table--> 
