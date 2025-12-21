@@ -5,6 +5,7 @@ Hi, I'm Juan Pablo!
 
 <h1 align="center">
 Hi, I'm Vishal Maurya!
+</h1>
 
 <img align="right" src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" width="200" />
 
