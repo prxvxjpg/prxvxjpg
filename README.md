@@ -3,9 +3,9 @@ Hi, I'm Juan Pablo!
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br/>
 
-Professional Profile
-
-
+<h1 align="center">
+ Professional Profile
+</h1>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
