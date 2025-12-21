@@ -4,13 +4,12 @@ Hi, I'm Juan Pablo!
 <br/>
 
 <h1 align="center">
-Hi, I'm Vishal Maurya!
+Professional Profile
 </h1>
 
 <img align="right" src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" width="200" />
 
 ```
-Professional Profile
 -------------------------
 💻 Data Scientist & Analyst | Mathematical Background
 📚 Leveraging statistical rigor for data-driven decision making
