@@ -14,6 +14,7 @@ Hi, I'm Juan Pablo!
 <img align="right" src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" width="200" />
 
 ```
+-------------------------
 💻 Data Scientist & Analyst | Mathematical Background
 📚 Leveraging statistical rigor for data-driven decision making
 📝 End-to-end data pipeline development: EDA → visualization → ML models
@@ -22,6 +23,7 @@ Hi, I'm Juan Pablo!
 🌟 Core stack: Python (pandas, scikit-learn), SQL, R, Power BI
 🚩 Focused on building robust, interpretable models for regulated industries
 ✅ Committed to data integrity and methodical validation processes
+-------------------------
 ```
 <br />
 
