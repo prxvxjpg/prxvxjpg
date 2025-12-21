@@ -121,7 +121,7 @@
 ---
 
 <!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<h2 align="center">🌟 Thought of the day</h2>
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
@@ -132,7 +132,7 @@
 
 <!--Contact Section--> 
 
-<h2 align="center">🤝 Connect with me </h2>
+<h2 align="center">🤝 Connect with me</h2>
 <div align="center">
  <a href="www.linkedin.com/in/jpg314159" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
