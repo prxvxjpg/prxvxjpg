@@ -26,11 +26,11 @@
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
-<p>
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"></a>
+<p align="center">
+  <img src="SQL_BADGE_URL" alt="SQL" width="120" />
+  <img src="PYTHON_BADGE_URL" alt="Python" width="120" />
+  <img src="POWER_BI_BADGE_URL" alt="Power BI" width="120" />
+
     
 ### 🧰 Frameworks and Libraries
 
