@@ -97,10 +97,10 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>Segmentación de vehículos y eficiencia de combustible con Machine Learning</strong></h3>
       <p align="center">
-        <a href="https://github.com/prxvxjpg/Proyecto_Pruebas_Saber_Pro">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=prxvxjpg&repo=Proyecto_Pruebas_Saber_Pro&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        <a href="https://github.com/prxvxjpg/Segmentacion_de_Vehiculos_y_Eficiencia_de_Combustible_con_Machine_Learning">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=prxvxjpg&repo=Segmentacion_de_Vehiculos_y_Eficiencia_de_Combustible_con_Machine_Learning&theme=nightowl&show_owner=true" alt="Segmentación de Vehículos y Eficiencia de Combustible con Machine Learning" />
         </a>
       </p>
     </td>
@@ -108,7 +108,7 @@
       <h3 align="center"><strong>Métodos Numéricos</strong></h3>
       <p align="center">
         <a href="https://github.com/prxvxjpg/MetodosNumericosConR">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=prxvxjpg&repo=MetodosNumericosConR&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=prxvxjpg&repo=MetodosNumericosConR&theme=nightowl&show_owner=true" alt="Métodos numéricos en R: Implementación de algoritmos fundamentales" />
         </a>
       </p>
     </td>
