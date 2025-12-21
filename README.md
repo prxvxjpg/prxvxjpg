@@ -30,6 +30,8 @@
   <img src="SQL_BADGE_URL" alt="SQL" width="120" />
   <img src="PYTHON_BADGE_URL" alt="Python" width="120" />
   <img src="POWER_BI_BADGE_URL" alt="Power BI" width="120" />
+</p>
+
 
     
 ### 🧰 Frameworks and Libraries
