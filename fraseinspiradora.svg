@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="-311.88419"
+       y="622.16486"
+       width="357.58444"
+       height="79.37413"
+       id="rect4" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-44.714579,-114.56458)">
+    <g
+       id="g5"
+       transform="translate(145.58219,-38.79774)">
+      <rect
+         style="fill:#011627;fill-opacity:1;stroke:#011627;stroke-width:4.31878;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1"
+         width="122.20329"
+         height="48.603584"
+         x="-98.708221"
+         y="155.52171" />
+      <path
+         id="path3"
+         style="fill:#79ff97;fill-opacity:1;stroke:#011627;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m -94.080216,162.07796 c -0.221219,0.0107 -0.691097,0.19565 -0.907955,0.39223 -0.872018,0.83438 -0.652266,2.04736 -0.655257,3.13779 l 0.03307,0.0103 1.655196,0.006 -0.01654,-1.67742 -0.622185,0.006 c 0.01309,-0.50718 0.137588,-0.78459 0.633554,-0.86609 v -0.9555 c 0,-0.0412 -0.04615,-0.0568 -0.11989,-0.0532 z m 1.916679,0 c -0.22122,0.0107 -0.690581,0.19565 -0.907438,0.39223 -0.872018,0.83438 -0.652266,2.04736 -0.655257,3.13779 l 0.03307,0.0103 1.655196,0.006 -0.01654,-1.67742 -0.622184,0.006 c 0.01309,-0.50718 0.13707,-0.78459 0.633036,-0.86609 v -0.9555 c 0,-0.0412 -0.04615,-0.0568 -0.119889,-0.0532 z" />
+      <path
+         id="path3-1"
+         style="fill:#79ff97;fill-opacity:1;stroke:#011627;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 19.54278,185.88626 c 0.22122,-0.0107 0.69058,-0.19565 0.90743,-0.39223 0.87202,-0.83438 0.65227,-2.04736 0.65526,-3.13779 l -0.0331,-0.0103 -1.65519,-0.006 0.0165,1.67742 0.62218,-0.006 c -0.0131,0.50718 -0.13707,0.78511 -0.63304,0.86661 v 0.9555 c 0,0.0412 0.0461,0.0568 0.11989,0.0532 z m -1.9172,0 c 0.22122,-0.0107 0.6911,-0.19565 0.90796,-0.39223 0.87201,-0.83438 0.65226,-2.04736 0.65525,-3.13779 l -0.0336,-0.0103 -1.65519,-0.006 0.0171,1.67742 0.62166,-0.006 c -0.0131,0.50718 -0.13707,0.78511 -0.63303,0.86661 v 0.9555 c 0,0.0412 0.0462,0.0568 0.11989,0.0532 z" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-2.6481603,0.31703464)"
+         id="text4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Copperplate Gothic Bold';-inkscape-font-specification:'Copperplate Gothic Bold, ';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4);fill:#ffffff;fill-opacity:1;stroke:#011627;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"><tspan
+           x="-311.88477"
+           y="648.68724"
+           id="tspan3">Wisdom is the daughter of </tspan><tspan
+           x="-311.88477"
+           y="678.68724"
+           id="tspan5">experience.</tspan></text>
+      <path
+         style="fill:#00ff00;fill-opacity:1;stroke:#79ff97;stroke-width:0.957;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         d="m -93.665554,190.94583 h 9.330973"
+         id="path4" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Copperplate Gothic Bold';-inkscape-font-specification:'Copperplate Gothic Bold, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#cabe7d;fill-opacity:1;stroke:none;stroke-width:0.799999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="-94.550011"
+         y="197.31253"
+         id="text5"><tspan
+           id="tspan4"
+           style="font-size:4.93889px;fill:#cabe7d;fill-opacity:1;stroke:none;stroke-width:0.8"
+           x="-94.550011"
+           y="197.31253">Leonardo da Vinci</tspan></text>
+    </g>
+  </g>
+</svg>
