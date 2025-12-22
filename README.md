@@ -119,9 +119,6 @@
 
 ---
 
-<!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Thought of the day</h2>
-
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
     <img src="fraseinspiradoradavinci.svg">
