@@ -123,7 +123,9 @@
 <h2 align="center">🌟 Thought of the day</h2>
 
 <!--STARTS_HERE_QUOTE_CARD-->
-
+<p align="center">
+    <img src="fraseinspiradora.svg">
+</p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
 
