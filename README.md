@@ -87,7 +87,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Natalidad y desigualdad en Bogotá: Un análisis de datos sobre la correlación entre pobreza, inseguridad y crecimiento poblacional (2009-2024)</strong></h3>
+      <h3 align="center"><strong>Natalidad y desigualdad en Bogotá: Un análisis de datos sobre la correlación entre pobreza, inseguridad y crecimiento poblacional</strong></h3>
       <p align="center">
         <a href="https://github.com/prxvxjpg/Analisis_de_datos_sobre_la_correlacion_entre_pobreza_inseguridad_y_crecimiento_poblacional">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=prxvxjpg&repo=Analisis_de_datos_sobre_la_correlacion_entre_pobreza_inseguridad_y_crecimiento_poblacional&theme=nightowl&show_owner=true" alt="Analisis de datos sobre la correlacion entre la pobreza, inseguridad y crecimiento poblacional" />
