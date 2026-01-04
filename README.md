@@ -82,7 +82,7 @@
       <h3 align="center"><strong>Identificando perfiles de éxito académico en Colombia con Machine Learning</strong></h3>
       <p align="center">
         <a href="https://github.com/prxvxjpg/Proyecto_Pruebas_Saber_Pro">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=prxvxjpg&repo=Proyecto_Pruebas_Saber_Pro&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=prxvxjpg&repo=Proyecto_Pruebas_Saber_Pro&theme=nightowl&show_owner=true" alt="Proyecto Icfes" />
         </a>
       </p>
     </td>
